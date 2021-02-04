@@ -1563,6 +1563,5 @@
         <sonar.projectKey>gii-is-AISS_openapi-generator</sonar.projectKey>
         <sonar.organization>gii-is-aiss</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
     </properties>
 </project>
